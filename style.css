@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.game-title {
+    margin-bottom: 20px;
+}
+
+#game-logo {
+    max-width: 100%;
+    height: auto;
+}
+
+#start-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#start-button:hover {
+    background-color: #0056b3;
+}
